@@ -34,6 +34,7 @@ pip install torch wandb numpy pandas datasets transformers trl unsloth rouge-sco
 ---
 
 ## Project Structure
+<pre>
 .
 ├── notebooks/
 │   └── fine_tuning_llama_medical.ipynb
@@ -43,5 +44,5 @@ pip install torch wandb numpy pandas datasets transformers trl unsloth rouge-sco
 ├── utils.py
 ├── README.md
 └── requirements.txt
-
+</pre>
 ---
